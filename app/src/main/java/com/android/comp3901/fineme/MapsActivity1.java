@@ -1,4 +1,4 @@
-package com.android.comp3901.fineme;
+    package com.android.comp3901.fineme;
 
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
